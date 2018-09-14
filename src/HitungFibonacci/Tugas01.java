@@ -15,6 +15,9 @@ public class Tugas01 {
         int [] nominal =  {3000, 2000, 500, 200, 100};
         Scanner sistem = new Scanner(System.in);
         
+        System.out.println("Identitas : " + identitas);
+        System.out.print("Masukkan nominal : ");
+        
         
     }
 }
