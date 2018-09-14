@@ -24,7 +24,7 @@ public class Tugas01 {
             int jumlah = uang/nominal[i];
             uang = uang - (nominal[i]*jumlah);
      
-            
+            System.out.println("Lembar"+ nominal[i]+ " = " +jumlah);
         }
     }
 }
