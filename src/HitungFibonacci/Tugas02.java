@@ -17,6 +17,9 @@ public class Tugas02 {
         int arr1[]= {10000, 7000, 5000, 3000, 2000};
         int bayaran = 0;
         
+        System.out.println("Identitas : " + identitas);
+        System.out.print("Jumlah berat maksimal : ");
+        
         
     }
 }
